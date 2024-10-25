@@ -1,0 +1,45 @@
+* {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+body {
+    margin: 0;
+}
+.header {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 300px;
+    padding-top: 10px;
+    padding-left: 100px;
+}
+
+.hlogo {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 18px;
+    margin: 0;
+    padding: 0;
+    padding-top: 2px;
+    padding-right: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+/* .information { */
+    /* display: flex; */
+/* } */
+
+/* .bluebox { */
+    /* border: 2px solid red; */
+/* } */
